@@ -4,7 +4,7 @@ Short description
 - Solutions and reports for the JPM 2026 MLCOE Summer Associate internship exercises by Wenhao Zhang (GitHub: @Hardy-Z). 
 
 Quick start
-- Navigate to the `"Corporate_Finance_Part_I/code directory"`
+- Navigate to the `"Corporate_Finance_Part_I/code"`
 
 - `python plot_figure_1.py`  generate Figure 1 (a), (b) and (c) in the report
   
